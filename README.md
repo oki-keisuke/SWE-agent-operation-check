@@ -6,7 +6,7 @@ SWE-agentの動作確認
 ベンチマークテスト SWE-bench に含まれる 12.47% のイシューを解決できます。
 このリポジトリでは，SWE-agentの動作確認のため，docker-composeとシェルコマンドを用いてSWE-agentの環境構築を行う．
 ▼SWE-agent
-https://github.
+https://github.com/princeton-nlp/SWE-agent
 
 ## 2. 必要な環境
 
