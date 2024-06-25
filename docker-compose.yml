@@ -1,0 +1,6 @@
+services:
+  swe-agent:
+    build: .
+    container_name: swe-agent
+    volumes:
+      - ./output:/app/output
